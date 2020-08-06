@@ -7,8 +7,7 @@ I want to find out which historically important voter issues Americans are focus
 
 ### Questions I Want To Answer
 1. Which historically important voter issues are becoming more or less frequent in media publications when compared to recent election years?
-2. Which historically non-important topics are becoming more or less frequent in media publications when compared to recent election years?
-3. Assuming the New York Times publishes news content based on the average voter's preference, how has the average voter's content preferences changed over time?
+2. Assuming the New York Times publishes news content based on the average voter's preference, how has the average voter's content preferences changed over time?
 
 ### Data Source
 The New York Times API provides summary data of all published articles by month and year. Collecting individual keywords and calculating their counts overtime allows for plotting of keywords to give the reader a better understanding of the average American's media consumption habits. 
