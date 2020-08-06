@@ -1,7 +1,7 @@
 # How Has Covid-19 Changed America's Media Consumption Habits?
 
 ### Project Overview
-The pandemic has changed the way Americans are living their lives. Stuck at home while restaurants are closed and office spaces are slow to reopen, Americans are adapting their behaviors by spending more of their time online and as a result, consuming more media. The United States is also approaching an election which may be, to many Americans, as important as any election before it.
+Stuck at home while restaurants are closed and office spaces are slow to reopen, Americans are adapting their behaviors by spending more of their time online and as a result, consuming more media. The United States is also approaching an election which may be, to many Americans, as important as any election before it.
 
 I want to find out which historically important voter issues Americans are most focused on today and if it has changed when compared to recent election years. For this project I will use the New York Times API to retrieve data that is assumed to be representative of media content the average voter is consuming. I will focus on data from March, April, May, June and July in each of the previous four election years (2008, 2012, 2016, 2020) during the analysis.
 
