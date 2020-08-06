@@ -1,4 +1,4 @@
-# How Has Covid-19 Changed America's Media Consumption Habits?
+# Shifting Behaviors: Covid-19 And America's Media Consumption Habits
 
 ### Project Overview
 Stuck at home while restaurants are closed and office spaces are slow to reopen, Americans are adapting their behaviors by spending more time online and as a result, consuming more media. The United States is also approaching an election which may be, to many Americans, as important as any election before it.
