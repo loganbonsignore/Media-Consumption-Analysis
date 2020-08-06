@@ -17,7 +17,7 @@ The New York Times API provides us with raw data related to all published articl
 I would like to use Natural Language Processsing to analyze these same questions. Part of the returned data from a NYT API call is the lead paragraph of each article. I would like to use the Natural Language Toolkit to complete my own keyword analysis instead of relying on NYT's keywords. Using NLP algorithms I will be able to analyze for myself what people are talking about most.
 
 
-### Image Sample
+### Image Samples
 ![Top NYT's Keywords](https://github.com/loganbonsignore/Media_Consumption_Analysis/blob/master/Images/pies.png?raw=true)
 ![Covid vs Election Media Coverage](https://github.com/loganbonsignore/Media_Consumption_Analysis/blob/master/Images/covid_vs_elections.png?raw=true)
 
