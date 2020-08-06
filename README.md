@@ -1,4 +1,4 @@
-# The New Information Age - How Has Covid-19 Changed Our Media Consumption Habits?
+# How Has Covid-19 Changed America's Media Consumption Habits?
 
 ### Project Overview
 The pandemic has changed the way Americans are living their lives. Stuck at home while restaurants are closed and office spaces are slow to reopen, Americans are adapting their behaviors by spending more of their time online and as a result, consuming more media. The United States is also approaching an election which may be, to many Americans, as important as any election before it.
